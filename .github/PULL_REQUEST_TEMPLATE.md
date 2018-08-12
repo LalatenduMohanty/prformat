@@ -1,4 +1,4 @@
-### Fix of issue(s) 
+### Fix of issue(s) - 
 
 
 ### How to test
