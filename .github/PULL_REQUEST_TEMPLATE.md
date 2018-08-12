@@ -1,7 +1,7 @@
-### Fix of issue(s): 
+### Fix of issue(s) 
 
 
-### How to test: 
+### How to test
 
   1.
   2.
